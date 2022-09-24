@@ -1,2 +1,2 @@
 def myNumber():
-    return 3
+    return 1
